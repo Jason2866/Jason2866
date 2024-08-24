@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason2866&ver2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Thanks to [PVS-Studio](https://pvs-studio.com/en/) for supporting with a PVS-Studio OSS development license!
+Thanks to [JetBrains](https://jb.gg/OpenSourceSupport) for supporting with a JetBrains OSS development license!
