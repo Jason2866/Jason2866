@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="192.22"
+          width="192.21"
           height="8"
           fill="#555555"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="192.22"
+          x="192.21"
           y="0"
-          width="49.78"
+          width="49.79"
           height="8"
           fill="#f34b7d"
         />
@@ -188,7 +188,7 @@
           data-testid="lang-progress"
           x="249"
           y="0"
-          width="10.99"
+          width="11"
           height="8"
           fill="#3178c6"
         />
@@ -199,14 +199,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 76.89%
+        C 76.88%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 19.91%
+        C++ 19.92%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
